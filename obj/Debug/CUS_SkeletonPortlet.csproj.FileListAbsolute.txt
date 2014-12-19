@@ -1,0 +1,5 @@
+C:\Program Files\Jenzabar\ICS.NET\Portal\bin\CUS_SkeletonPortlet.dll
+C:\Program Files\Jenzabar\ICS.NET\Portal\bin\CUS_SkeletonPortlet.pdb
+C:\Program Files\Jenzabar\ICS.NET\Portal\Portlets\CUS\ICS\CUS_SkeletonPortlet\obj\Debug\CUS_SkeletonPortlet.csprojResolveAssemblyReference.cache
+C:\Program Files\Jenzabar\ICS.NET\Portal\Portlets\CUS\ICS\CUS_SkeletonPortlet\obj\Debug\CUS_SkeletonPortlet.dll
+C:\Program Files\Jenzabar\ICS.NET\Portal\Portlets\CUS\ICS\CUS_SkeletonPortlet\obj\Debug\CUS_SkeletonPortlet.pdb

@@ -1,0 +1,85 @@
+﻿#plhCoices { margin-left:40px; }
+.pnlDevice, .pnlFinish  
+{
+    float:left; 
+    margin:0px 0px 20px 60px; 
+    display:block; 
+    padding:6px 0px 20px 0px; 
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+    border: 1px solid #ccc;
+    width: 240px;
+}
+.pnlDevice:hover, .pnlFinish:hover, .pnlModel:hover, .pnlCarrier:hover
+{
+    -webkit-box-shadow: 0 0 30px 10px #888;
+    box-shadow: 0 0 30px 10px #888;    
+    border: 1px solid #666;
+}
+.pnlDevice a, .pnlFinish a, .pnlModel a, .pnlCarrier a 
+    { text-decoration:none; }
+.pnlDevice h1, .pnlFinish h1 
+    { font-size:22px; color:Maroon; text-align:center; margin-top:0px; }
+.pnlModel h1 
+    { font-size:18px; color:Maroon; text-align:center; margin:10px; }
+.pnlDevice h1 .devExt, .pnlFinish h1 .devExt, .pnlModel h1 .devExt   
+    { font-size:14px; font-weight:normal; }
+.pnlModel h2 
+    { font-size:16px; color:#888; text-align:center; margin-top:0px; }
+.pnlDevice img, .pnlFinish img, .pnlModel img, .pnlCarrier img  
+    { display:block; margin:auto; }
+.SelectButton 
+    { display:block; margin:auto; margin-top:20px; }
+h1  { margin: 10px 20px; }
+
+.pnlSelections  
+{
+    float:right; 
+    margin:0px 0px 20px 20px; 
+    display:block; 
+    padding:10px; 
+    -webkit-border-radius: 20px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    background-color:#eee;
+    width:250px;
+}
+.pnlSelections .selHeader { font-size:14px; margin:0px; text-align:center; font-weight:bold; }
+.pnlSelections .currSel { margin:8px; }
+.pnlSelections .selNote { margin:8px; font-style:italic; font-size:11px; text-align:center; }
+
+.pnlModel, .pnlCarrier    
+{
+    float:left; 
+    margin:10px 0px 10px 30px; 
+    display:block; 
+    padding:6px; 
+    -webkit-border-radius: 12px;
+    border-radius: 12px;
+    border: 1px solid #ccc;
+    width: 200px;
+}
+.modPrice { font-weight:normal; color:#666; }
+h1.connHead { font-size:22px; color:maroon; margin-left:20px; margin-top:0px; text-decoration:underline; }
+
+
+.pnlOrder  
+{
+    float:left; 
+    margin:0px 0px 20px 20px; 
+    display:block; 
+    padding:10px; 
+    -webkit-border-radius: 20px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    background-color:#eee;
+    width:600px;
+}
+.pnlOrder .selHeader { font-size:22px; margin:0px; font-weight:bold; }
+.pnlOrder .currSel { font-size:18px; margin:8px; margin-top:20px; }
+.pnlOrder .selNote { margin:8px; font-style:italic; font-size:11px; text-align:center; margin-bottom:20px; }
+.SelectButton { display:block; margin:auto; margin-top:20px; }
+</style>
+
+
+

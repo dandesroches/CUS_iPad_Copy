@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CUS_WS_ApproveHours">
+</Property><Property Name="Solution File" Value="C:\Program Files\Jenzabar\ICS.NET\Portal\Portlets\CUS\ICS\CUS_WS_ApproveHours\CUS_WS_ApproveHours.sln">
+</Property><Property Name="Date" Value="Thursday, July 18, 2013">
+</Property><Property Name="Time" Value="13:51:11 PM">
+</Property></Properties><Event ErrorLevel="0" Project="CUS_WS_ApproveHours" Source="CUS_WS_ApproveHours.csproj" Description="Project file successfully backed up as C:\Program Files\Jenzabar\ICS.NET\Portal\Portlets\CUS\ICS\CUS_WS_ApproveHours\Backup\CUS_WS_ApproveHours.csproj">
+</Event><Event ErrorLevel="0" Project="CUS_WS_ApproveHours" Source="CUS_WS_ApproveHours.cs" Description="File successfully backed up as C:\Program Files\Jenzabar\ICS.NET\Portal\Portlets\CUS\ICS\CUS_WS_ApproveHours\Backup\CUS_WS_ApproveHours.cs">
+</Event><Event ErrorLevel="0" Project="CUS_WS_ApproveHours" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Program Files\Jenzabar\ICS.NET\Portal\Portlets\CUS\ICS\CUS_WS_ApproveHours\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CUS_WS_ApproveHours" Source="CUS_WS_ApproveHours.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CUS_WS_ApproveHours" Source="CUS_WS_ApproveHours.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CUS_WS_ApproveHours" Source="CUS_WS_ApproveHours.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
